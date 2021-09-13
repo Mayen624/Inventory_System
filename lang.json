@@ -1,0 +1,240 @@
+{
+    "navbar":{
+
+        "lang-small-nav-bar":
+        {
+            "en_US":"Inventory System",
+            "es_SV":"Sistema de Inventario"
+        },
+        "lang-welcome":
+        {
+            "en_US":"Welcome",
+            "es_SV":"Bienvenid@"
+        },
+        "lang-profile":
+        {
+            "en_US":"Profile",
+            "es_SV":"Perfil"
+        },
+        "lang-logout":
+        {
+            "en_US":"Logout",
+            "es_SV":"Cerrar Session"
+        },
+        "lang-select":
+        {
+            "en_US": "Languaje",
+            "es_SV": "Lenguaje"
+        },
+        "lang-spanish":
+        {
+            "en_US": "Spanish",
+            "es_SV": "Español"
+        },
+        "lang-english":
+        {
+            "en_US": "English",
+            "es_SV": "Ingles"
+        }
+    },
+
+    "menulateral":{
+        "lang-dashboard":
+        {
+            "en_US":"Inventory",
+            "es_SV":"Inventario"
+        },
+        "lang-users":
+        {
+            "en_US":"Users",
+            "es_SV":"Usuarios"
+        },
+        "lang-products":
+        {
+            "en_US":"Inventory",
+            "es_SV":"Inventario"
+        }
+    },
+
+    "users":{
+        
+        "lang-category-users":
+        {
+            "en_US":"List of users",
+            "es_SV":"Lista de Usuarios"
+        },
+    
+        "lang-list-all-user":
+        {
+            "en_US":"LIST OF ALL USER IN THE SYSTEM",
+            "es_SV":"LISTA DE TODOS USUARIOS EN EL SISTEMA"
+        },
+        "lang-code":
+        {
+            "en_US":"Code",
+            "es_SV":"Codigo"
+        },
+        "lang-name":
+        {
+            "en_US":"Name",
+            "es_SV":"Nombre"
+        },
+        "lang-user":
+        {
+            "en_US":"User",
+            "es_SV":"Usuario"
+        },
+        "lang-password":
+        {
+            "en_US":"Password",
+            "es_SV":"Contraseña"
+        },
+        "lang-email":
+        {
+            "en_US":"Email",
+            "es_SV":"Correo"
+        },
+        "lang-type":
+        {
+            "en_US":"Type",
+            "es_SV":"Tipo"
+        },
+        "lang-actions":
+        {
+            "en_US":"Actions",
+            "es_SV":"Acciones"
+        },
+        "lang-modal-tittle":{
+            "en_US":"Add new user",
+            "es_SV":"Nuevo usuario"
+        },
+        "lang-first-category":{
+            "en_US":"Users",
+            "es_SV":"Usuarios"
+        }
+
+
+    },
+
+    "products":{
+        "lang-category-products":
+        {
+            "en_US":"Inventory - Products",
+            "es_SV":"Inventario - Productos"
+        },
+        "lang-sub-category":
+        {
+            "en_US":"List of Products",
+            "es_SV":"Lista de productos"
+        },
+        "lang-list-all-products":
+        {
+            "en_US":"LIST OF ALL PRODUCTS IN THE INVENTORY",
+            "es_SV":"LISTA DE TODOS LOS PRODUCTOS EN EL INVENTARIO"
+        },
+        "lang-code":
+        {
+            "en_US":"Code",
+            "es_SV":"Codigo"
+        },
+        "lang-btn-newusers":
+        {
+            "en_US":"New product",
+            "es_SV":"Nuevo producto"
+        },
+        "lang-item":
+        {
+            "en_US":"Item",
+            "es_SV":"Articulo"
+        },
+        "lang-description":
+        {
+            "en_US":"Description",
+            "es_SV":"Descripcion"
+        },
+        "lang-price":
+        {
+            "en_US":"Price",
+            "es_SV":"Precio"
+        },
+        "lang-category":
+        {
+            "en_US":"Category",
+            "es_SV":"Categoria"
+        },
+        "lang-image":
+        {
+            "en_US":"Image",
+            "es_SV":"Imagen"
+        },
+        "lang-stock":
+        {
+            "en_US":"Stock",
+            "es_SV":"Existencias"
+        },
+        "lang-actions":
+        {
+            "en_US":"Actions",
+            "es_SV":"Acciones"
+        }
+        
+    },
+
+    "cateogories": 
+    {
+        "lang-category-categories":
+        {
+            "en_US":"Categories",
+            "es_SV":"Categorias"
+        },
+        "lang-sub-category-categories":
+        {
+            "en_US":"Categories",
+            "es_SV":"Categorias"
+        }
+    },
+
+    "store": 
+    {
+        "lang-h1-store":
+        {
+            "en_US":"BEST SELLERS",
+            "es_SV":"MAS VENDIDOS"
+        }
+    },
+
+    "descarga": 
+    {
+        "lang-myprofile":
+        {
+            "en_US":"My profile",
+            "es_SV":"Mi perfil"
+        },
+        "lang-english":
+        {
+            "en_US":"English",
+            "es_SV":"Ingles"
+        },
+        "lang-spanish":
+        {
+            "en_US":"Spanish",
+            "es_SV":"Español"
+        },
+        "lang-change":
+        {
+            "en_US":"Languge",
+            "es_SV":"Lenguaje"
+        },
+        "lang-main-title":
+        {
+            "en_US":"MY DISCHARGES",
+            "es_SV":"MIS DESCARGAS"
+        },
+        "lang-descharge":
+        {
+            "en_US":"Descharge",
+            "es_SV":"Descargar"
+        }
+    }
+
+}
